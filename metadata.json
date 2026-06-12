@@ -1,0 +1,6 @@
+{
+  "name": "Gor & Gayane: Spanish Sports Games",
+  "description": "Իսպաներենի ուսուցման սպորտային խաղեր Գոռի և Գայանեի համար (Ապառնի ժամանակ և Դերանուններ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
